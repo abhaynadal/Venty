@@ -1,9 +1,6 @@
 # Venty
 ## Online community focused on mental health
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Venty is a NextJS powered website that can be used to write confessions and vent about anything under the sun. Users can see other's vents as well and can comment under posts.
 
@@ -25,7 +22,7 @@ Check out other stuff i've worked on at [Github]
 
 ## Tech
 
-Dillinger uses a number of open source projects to work properly:
+Venty uses a number of open source projects to work properly:
 
 - [NextJS] - Framework for ReactJS
 - [Firebase] - NoSQL Document based Database powered by Google
