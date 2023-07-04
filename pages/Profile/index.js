@@ -7,7 +7,7 @@ export default function Home() {
   return (
       <div className="md:p-5 w-full max-w-3xl mx-auto pt-20">
       <Head>
-        <title>Confessay</title>
+        <title>Venty</title>
       </Head>
 
       

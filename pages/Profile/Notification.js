@@ -46,7 +46,7 @@ const Notification = () => {
   return (
     <div className="md:p-5 w-full max-w-3xl mx-auto pt-20">
         <Head>
-            <title>Confessay</title>
+            <title>Venty</title>
         </Head>
 
         <div className="flex justify-center items-center mt-10 md:mt-20">

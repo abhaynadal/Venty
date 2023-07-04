@@ -76,7 +76,7 @@ const Login = () => {
   return (
     <div className="w-full max-w-3xl mx-auto">
     <Head>
-      <title>Confessay</title>
+      <title>Venty</title>
     </Head>
     <div className="shadow-xl mt-32 p-10 text-gray-700 rounded-lg">
       <h2 className="text-2xl font-semibold">Join Today</h2>
